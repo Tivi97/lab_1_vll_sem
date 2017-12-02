@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ginger</string>
+    <string name="time_work">Waiting for you from 7 am to 10 pm</string>
+    <string name="tagline">Hot cup of magic tea</string>
+    <string-array name="streets">
+    <item>Yablochkova 45 St.</item>
+        <item>Savyshkina 11 St.</item>
+    </string-array>
+</resources>
